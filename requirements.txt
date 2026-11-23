@@ -1,0 +1,20 @@
+accelerate
+bitsandbytes
+cython
+einops
+evaluate
+ipykernel
+matplotlib
+nltk
+peft
+pillow
+protobuf
+pycocotools
+qwen-vl-utils
+scikit-learn
+sentencepiece
+scikit-image
+spacy
+torch
+torchvision
+transformers == 4.46.3
