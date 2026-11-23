@@ -20,7 +20,7 @@ Note: `llava-onevision-7b` needs `transformers>=4.53`, while `requirements.txt` 
 
 ## Data generation
 
-We used [CIVET](https://aclanthology.org/2025.findings-emnlp.239/) to generate the synthetic data. Please cite the [original work](#civet-citation) when generating new data.
+We used [CIVET](https://aclanthology.org/2025.findings-emnlp.239/) to generate the synthetic data. Please cite the original work when generating new data.
 
 All commands are run from the repository root, as modules (`python -m world.<script>`). The first argument is the output folder.
 
